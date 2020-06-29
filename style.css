@@ -1,0 +1,75 @@
+body{
+    margin: 0px;
+
+    font-family: 'Poppins', sans-serif;
+}
+h1{
+    font-size: 50px;
+}
+h2{
+    font-size: 40px;
+}
+p{
+    text-align: justify;
+    
+}
+.name{
+    color: orange;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+
+}
+.half-width img{
+    width: 100%;
+}
+.top-banner{
+    
+    background-image: url("images/top-banner.png");
+    background-repeat: no-repeat;
+}
+section{
+
+    height: 500px;
+    padding-bottom: 150px;
+
+}.link-button{
+    text-decoration: none;
+    background-color: peru;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 10px;
+    font-weight: bold;
+}
+.bloog{
+    box-shadow: 10px 10px 40px gray;
+    height: 80%;
+}
+.second{
+
+    background-image: url("images/exp-bg.png");
+    background-repeat: no-repeat;
+    background-position: left;
+}
+.mama{
+    text-align: justify;
+    padding-right:28px ;
+}
+#hotmama{
+    border-left: 7px solid tomato;
+    border-image: linear-gradient(180deg, lightsalmon tomato);
+    border-image-slice: 1;
+    
+}
+#colemama{
+    border-left: 7px solid blueviolet;
+    border-image: linear-gradient(180deg, lightsalmon tomato);
+    border-image-slice: 1;
+
+}
+footer p{
+    text-align: center;
+}
